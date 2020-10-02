@@ -1,4 +1,4 @@
-Phishing Frenzy
+Phishing Frenzy- AN AMAZING TOOL
 ===============
 
 Ruby on Rails Phishing Framework
